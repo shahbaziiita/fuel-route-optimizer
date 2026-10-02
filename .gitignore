@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+db.sqlite3
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+data/fuel-prices-for-be-assessment.csv
